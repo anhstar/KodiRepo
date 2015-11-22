@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.tvhaingoai"
            name="TV Hải Ngoại"
-           version="1.2.15"
+           version="1.0.0"
            provider-name="anhstar">
   <requires>
   </requires>
