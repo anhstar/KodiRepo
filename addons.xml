@@ -36,9 +36,9 @@
 
 <addon id="tvhaingoai.repository" name="TVHaiNgoai repository" version="0.0.1" provider-name="anhstar">
 	<extension point="xbmc.addon.repository" name="TVHaiNgoai Add-on Repository">
-		<info compressed="false">http://raw.github.com/anhstar/KodiRepo/master/tvhaingoai.repository/addon.xml</info>
-		<checksum>http://raw.github.com/anhstar/KodiRepo/master/tvhaingoai.repository/addon.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/anhstar/KodiRepo/master/repo/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/anhstar/KodiRepo/master/tvhaingoai.repository/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/anhstar/KodiRepo/master/tvhaingoai.repository/addon.xml.md5</checksum>
+		<datadir zip="true">https://github.com/anhstar/KodiRepo/tree/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Tutorial Addon</summary>
