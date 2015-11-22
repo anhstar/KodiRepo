@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<stream>
+
+<item>
+<title>[COLOR orange]TV Hải Ngoại LIVE[COLOR magenta] + [COLOR orange]Radio Tổng Hợp[/COLOR]</title>
+<link>NoRedirect</link>
+<thumbnail>mytv.png</thumbnail>
+<mode>1</mode>
+</item>
+
+<item>
+<title>[COLOR lime][B]SBTN[/B][COLOR magenta] + [COLOR lime]TV Hải Ngoại REPLAY[/COLOR]</title>
+<link>NoRedirect</link>
+<thumbnail>haingoaitube.png</thumbnail>
+<mode>40</mode>
+</item>
+
+</stream>
+
+

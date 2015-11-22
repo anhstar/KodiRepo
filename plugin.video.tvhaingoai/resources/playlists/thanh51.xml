@@ -1,0 +1,1929 @@
+<?xml version="1.0"?>
+
+<channels>
+<channel>
+<name>[COLOR yellow]CẬP NHẬT NGÀY 26 THÁNG 8 NĂM 2015[/COLOR]</name>
+<thumbnail></thumbnail>
+</item>
+
+</channel>
+<channel>
+<name>[COLOR FF00FF00][B]TH VTV Play[/B][COLOR blue][/COLOR]</name>
+<thumbnail>http://vtvplay.vn//images/logo.png</thumbnail>
+</item>
+<item>
+<title>VTV1</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1sd_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/JW8VXef.png</thumbnail>
+</item>
+<item>
+<title>VTV3</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv3sd_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/spL8IHO.png</thumbnail>
+</item>
+<item>
+<title>VTV6</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv6sd_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/keIENsc.png</thumbnail>
+</item>
+<item>
+<title>VTVcab1</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:giaitritv_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/nmmH5NG.png</thumbnail>
+</item>
+<item>
+<title>VTVcab2</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:phimviet_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/YNCzLp9.png</thumbnail>
+</item>
+<item>
+<title>ThethaoTV</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/KuFexNw.png</thumbnail>
+</item>
+<item>
+<title>VTVcab4</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:kenh17_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/zr9dOPm.png</thumbnail>
+</item>
+<item>
+<title>VTVcab5</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:echanel_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/pFgmD7i.png</thumbnail>
+</item>
+<item>
+<title>VTVcab6</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:haytv_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://i.imgur.com/NCIpILU.png</thumbnail>
+</item>
+<item>
+<title>VTVcab7</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/Kyv11bZ.png</thumbnail>
+</item>
+<item>
+<title>VTVcab8</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/Sjc6xj8.png</thumbnail>
+</item>
+<item>
+<title>VTVcab9</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:infotv_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/I6letfB.png</thumbnail>
+</item>
+<item>
+<title>VTVcab10</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:o2tv_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/aVP5nbS.png</thumbnail>
+</item>
+<item>
+<title>VTVcab12</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:styletv_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/XhCmf93.png</thumbnail>
+</item>
+<item>
+<title>VTVcab15</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:investtv_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/3ZbKdiV.png</thumbnail>
+</item>
+<item>
+<title>BongdaTV</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/TSfiqGv.png</thumbnail>
+</item>
+<item>
+<title>VTVcab17</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:yeah1tv_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/2nOJwku.png</thumbnail>
+</item>
+<item>
+<title>SCTV Hai HD</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:sctvhaihd_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sctv-hai_142225033799.png</thumbnail>
+</item>
+<item>
+<title>HTV9</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:htv9_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/N3nCaWT.png</thumbnail>
+</item>
+<item>
+<title>HTVC Phunu</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:htvcphunu_hls.smil/chunklist.m3u8</link>
+<thumbnail>http://img.htvonline.com.vn/livetv/27122013/pn_66361388139915.png</thumbnail>
+</item>
+<item>
+<title>Arirang</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:arirang_hls.smil/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KBS World</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:kbs_hls.smil/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+</channel>
+<channel>
+<name>[COLOR FF00FF00][B]TH FPTplay[/B][COLOR blue][/COLOR]</name>
+<thumbnail>http://i.imgur.com/1vqO42I.png</thumbnail>
+</item>
+<item>
+<title>SPORT 1</title>
+<link>http://scache.fptplay.net.vn/liveshow/sporttv1/playlist.m3u8?token=c2VydmVyX3RpbWU9MTQzMTU4MzI0NiZoYXNoX3ZhbHVlPTE4YWI2ZTNhYTk5MTRhYmZkNTM4OTQ1NzYwYmIyYTBjJnZhbGlkX21pbnV0ZXM9MTQ0MCZjaGFubmVsX2lkPXNwb3J0dHYx&did=482843bed8a4cfd8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sporttv1_143443937581.jpg</thumbnail>
+</item>
+<item>
+<title>SPORT 2</title>
+<link>http://hlscache.fptplay.net.vn/liveshow/sporttv2/playlist.m3u8?token=c2VydmVyX3RpbWU9MTQzMTU4MzI1NCZoYXNoX3ZhbHVlPTU0ZjBlMzEzZGFlZGQzM2FiNGEzOTJkYjBjZmZmMGZjJnZhbGlkX21pbnV0ZXM9MTQ0MCZjaGFubmVsX2lkPXNwb3J0dHYy&did=482843bed8a4cfd8</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_sporttv2_143443938585.jpg</thumbnail>
+</item>
+<item>
+<title>AXN HD</title>
+<link>http://hlscache.fptplay.net.vn/live/axnhd_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/axnhd.png</thumbnail>
+</item>
+<item>
+<title>BLOOMBERG</title>
+<link>http://hlscache.fptplay.net.vn/live/bloomberg_2000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_bloomberg_141783843364.png</thumbnail>
+</item>
+<item>
+<title>GOLF CHANNEL</title>
+<link>http://hlscache.fptplay.net.vn/live/golfchannel_2000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_golf-channel_14187983224.png</thumbnail>
+</item>
+<item>
+<title>FASHION HD</title>
+<link>http://hlscache.fptplay.net.vn/live/fashiontvhd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_fashion-tv_141783873951.png</thumbnail>
+</item>
+<item>
+<title>CNN</title>
+<link>http://hlscache.fptplay.net.vn/event/cnn/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_cnn_141014963557.png</thumbnail>
+</item>
+<item>
+<title>DW</title>
+<link>http://hlscache.fptplay.net.vn/lives/dwenglish_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_deutsche-welle_143502815666.png</thumbnail>
+</item>
+<item>
+<title>[V] HD</title>
+<link>http://hlscache.fptplay.net.vn/live/htvcplusHD_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://img.htvonline.com.vn/livetv/27122013/channel-v_69131388140752.png</thumbnail>
+</item>
+<item>
+<title>Imovie</title>
+<link>http://hlscache.fptplay.net.vn/ifilm/imovie/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_imovie_14351987820.png</thumbnail>
+</item>
+<item>
+<title>VTV1</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtv1hd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&amp&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vtv1-hd_142284975301.png</thumbnail>
+</item>
+<item>
+<title>VTV2</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtv2_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtv2.png</thumbnail>
+</item>
+<item>
+<title>VTV3</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtv3HD_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vtv3.png</thumbnail>
+</item>
+<item>
+<title>VTV4</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtv4_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtv4.png</thumbnail>
+</item>
+<item>
+<title>VTV6</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtv6hd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtv6-hd_140988742272.png</thumbnail>
+</item>
+<item>
+<title>VTV9</title>
+<link>http://scache.fptplay.net.vn/livez/vtv9_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&amp&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vtv9.png</thumbnail>
+</item>
+<item>
+<title>VTVCab1 - Giải Trí TV</title>
+<link>http://hlscache.fptplay.net.vn/livev/giaitritv_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_giai-tri-tv_141947751633.png</thumbnail>
+</item>
+<item>
+<title>VTVCab2 - Phim Việt</title>
+<link>http://hlscache.fptplay.net.vn/livev/phimviet_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_phim-viet_141631111879.png</thumbnail>
+</item>
+<item>
+<title>VTVCab3 - Thể Thao TV</title>
+<link>http://scache.fptplay.net.vn/livev/thethaotvsd_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_the-thao-tv_141344040717.png</thumbnail>
+</item>
+<item>
+<title>VTVCab4 - Kênh17</title>
+<link>http://hlscache.fptplay.net.vn/livev/kenh17_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_kenh-17_141941665727.png</thumbnail>
+</item>
+<item>
+<title>VTVCab5 - E Channel</title>
+<link>http://hlscache.fptplay.net.vn/livev/echanel_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_e-channel_141871254578.png</thumbnail>
+</item>
+<item>
+<title>VTVCab6 - Haytv</title>
+<link>http://hlscache.fptplay.net.vn/livev/haytv_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_hay-tv_141947753725.png</thumbnail>
+</item>
+<item>
+<title>VTVCab7 - Dramas</title>
+<link>http://hlscache.fptplay.net.vn/livev/ddramas_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_ddramas_141870021848.png</thumbnail>
+</item>
+<item>
+<title>VTVCab8 - BiBi</title>
+<link>http://hlscache.fptplay.net.vn/livev/bibi_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_bibi_141870019316.png</thumbnail>
+</item>
+<item>
+<title>VTVCab9 - Info TV</title>
+<link>http://hlscache.fptplay.net.vn/livev/infotv_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_info-tv_141947754907.png</thumbnail>
+</item>
+<item>
+<title>VTVCab10 - O2 TV</title>
+<link>http://hlscache.fptplay.net.vn/livev/o2tv_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_o2-tv_14194775008.png</thumbnail>
+</item>
+<item>
+<title>VTVCab12 - STYLE TV</title>
+<link>http://hlscache.fptplay.net.vn/livev/styletv_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_style-tv_141870017877.png</thumbnail>
+</item>
+<item>
+<title>VTVCab15 - INVEST TV</title>
+<link>http://hlscache.fptplay.net.vn/livev/investtv_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_invest-tv_141947757173.png</thumbnail>
+</item>
+<item>
+<title>VTVCab16 - Bóng Đá TV</title>
+<link>http://scache.fptplay.net.vn/livev/bongdatvsd_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_bong-da-tv_141630898215.png</thumbnail>
+</item>
+<item>
+<title>VTVCab17 - YEAH1 TV</title>
+<link>http://hlscache.fptplay.net.vn/livev/yeah1tv_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_yeah1_141888594529.png</thumbnail>
+</item>
+<item>
+<title>iTV HD</title>
+<link>http://hlscache.fptplay.net.vn/livez/itvhd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_itv.png</thumbnail>
+</item>
+<item>
+<title>VTC HD3</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtchd3_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vtc-hd3.png</thumbnail>
+</item>
+<item>
+<title>VTC1</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtc1_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtc1.png</thumbnail>
+</item>
+<item>
+<title>VTC2</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtc2_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vtc2.png</thumbnail>
+</item>
+<item>
+<title>VTC3 HD</title>
+<link>http://hlscache.fptplay.net.vn/livez//vtc3hd_1000.stream/chunklist.m3u8?token=b0b699f391bd288495770d18b61afef69594cf4d&amp&did=518313591d35306792028c8bf5c37bc44b02a7e2</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtc3.png</thumbnail>
+</item>
+<item>
+<title>VTC5</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtc5_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtc5.png</thumbnail>
+</item>
+<item>
+<title>VTC6</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtc6_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vtc6.png</thumbnail>
+</item>
+<item>
+<title>VTC7</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtc7_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtc7.png</thumbnail>
+</item>
+<item>
+<title>VTC10</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtc10_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtc10.png</thumbnail>
+</item>
+<item>
+<title>VTC14</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtc14_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtc14.png</thumbnail>
+</item>
+<item>
+<title>VTC16</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtc16_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtc16.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD HÀI</title>
+<link>http://hlscache.fptplay.net.vn/livev/sctvhaihd_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sctv-hai_142225033799.png</thumbnail>
+</item>
+<item>
+<title>Phim Hay</title>
+<link>http://scache.fptplay.net.vn/livez/phimhay_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png</thumbnail>
+</item>
+<item>
+<title>Việt Teen</title>
+<link>http://scache.fptplay.net.vn/livez/vietteen_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vietteen_141217629418.png</thumbnail>
+</item>
+<item>
+<title>Miền Tây</title>
+<link>http://scache.fptplay.net.vn/livez/mientay_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png</thumbnail>
+</item>
+<item>
+<title>SAM</title>
+<link>http://scache.fptplay.net.vn/livez/sam_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png</thumbnail>
+</item>
+<item>
+<title>NCM</title>
+<link>http://scache.fptplay.net.vn/livez/ncm_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png</thumbnail>
+</item>
+<item>
+<title>ONE TV</title>
+<link>http://scache.fptplay.net.vn/livez/onetv_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_onetv.png</thumbnail>
+</item>
+<item>
+<title>ANTV</title>
+<link>http://scache.fptplay.net.vn/live/antv_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png</thumbnail>
+</item>
+<item>
+<title>VIETNAMNET</title>
+<link>http://scache.fptplay.net.vn/live/vietnamnet_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vietnamnet_141457732736.png</thumbnail>
+</item>
+<item>
+<title>QUỐC PHÒNG VN</title>
+<link>http://hlscache.fptplay.net.vn/livez/quocphongHD_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png</thumbnail>
+</item>
+<item>
+<title>QUỐC HỘI</title>
+<link>http://hlscache.fptplay.net.vn/livez/quochoihd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-hoi-hd_143625917363.png</thumbnail>
+</item>
+<item>
+<title>TTXVN</title>
+<link>http://hlscache.fptplay.net.vn/livez/vnews_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png</thumbnail>
+</item>
+<item>
+<title>VOVTV</title>
+<link>http://hlscache.fptplay.net.vn/livez/vovtv_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png</thumbnail>
+</item>
+<item>
+<title>HTV1</title>
+<link>http://hlscache.fptplay.net.vn/live/htv1_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_htv1_141888555727.png</thumbnail>
+</item>
+<item>
+<title>HTV2</title>
+<link>http://hlscache.fptplay.net.vn/live/htv2_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_htv2.png</thumbnail>
+</item>
+<item>
+<title>HTV3</title>
+<link>http://hlscache.fptplay.net.vn/live/htv3_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_htv3.png</thumbnail>
+</item>
+<item>
+<title>HTV4</title>
+<link>http://hlscache.fptplay.net.vn/live/htv4_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_htv4_141888557609.png</thumbnail>
+</item>
+<item>
+<title>HTV7</title>
+<link>http://hlscache.fptplay.net.vn/live/htv7_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_htv7.png</thumbnail>
+</item>
+<item>
+<title>HTV9</title>
+<link>http://hlscache.fptplay.net.vn/live/htv9HD_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_htv9-hd_142286383981.png</thumbnail>
+</item>
+<item>
+<title>HTV THẺ THAO</title>
+<link>http://hlscache.fptplay.net.vn/live/htvcthethao_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-the-thao.png</thumbnail>
+</item>
+<item>
+<title>THUẦN VIỆT HD</title>
+<link>http://hlscache.fptplay.net.vn/live/htvcthuanvietHD_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-thuan-viet.png</thumbnail>
+</item>
+<item>
+<title>THUẦN VIỆT</title>
+<link>http://hlscache.fptplay.net.vn/live/htvcthuanviet_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-thuan-viet_141869995261.png</thumbnail>
+</item>
+<item>
+<title>HTVC PHIM HD</title>
+<link>http://hlscache.fptplay.net.vn/live/htvcmovieHD_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-movie.png</thumbnail>
+</item>
+<item>
+<title>HTVC PHIM</title>
+<link>http://hlscache.fptplay.net.vn/livez/htvcmovie_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-movie_14187000160.png</thumbnail>
+</item>
+<item>
+<title>HTVC SHOPPING</title>
+<link>http://scache.fptplay.net.vn/live/htvcshopping_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-shopping.png</thumbnail>
+</item>
+<item>
+<title>HTVC PHỤ NỮ</title>
+<link>http://hlscache.fptplay.net.vn/livez/htvcphunu_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-phu-nu_141870063257.png</thumbnail>
+</item>
+<item>
+<title>HTVC DU LỊCH</title>
+<link>http://hlscache.fptplay.net.vn/live/htvcdulich_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-du-lich.png</thumbnail>
+</item>
+<item>
+<title>HTVC GIA ĐÌNH</title>
+<link>http://hlscache.fptplay.net.vn/live/htvcgiadinh_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-gia-dinh.png</thumbnail>
+</item>
+<item>
+<title>FBNC</title>
+<link>http://hlscache.fptplay.net.vn/livez/fbnchd_2000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_fbnc_141870056938.png</thumbnail>
+</item>
+<item>
+<title>HA NOI TV1</title>
+<link>http://scache.fptplay.net.vn/livez/hntv1_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_hanoitv-1.png</thumbnail>
+</item>
+<item>
+<title>HA NOI TV2</title>
+<link>http://playcache.fptplay.net.vn/livez/hntv2_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_hanoitv-2_141457719731.png</thumbnail>
+</item>
+<item>
+<title>VINH LONG 1</title>
+<link>http://hlscache.fptplay.net.vn/livez/vinhlong1_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png</thumbnail>
+</item>
+<item>
+<title>VINH LONG 2</title>
+<link>http://hlscache.fptplay.net.vn/livez/vinhlong2_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-2.png</thumbnail>
+</item>
+<item>
+<title>VTV DA NANG</title>
+<link>http://scache.fptplay.net.vn/livez/vtvdanang_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtv-da-nang_141457757889.png</thumbnail>
+</item>
+<item>
+<title>VTV CAN THO</title>
+<link>http://hlscache.fptplay.net.vn/live/cvtv1_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_cvtv1.png</thumbnail>
+</item>
+<item>
+<title>BTV1</title>
+<link>http://hlscache.fptplay.net.vn/live/btv1_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_binh-duong-1.png</thumbnail>
+</item>
+<item>
+<title>BTV2</title>
+<link>http://hlscache.fptplay.net.vn/live/btv2_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_binh-duong-2.png</thumbnail>
+</item>
+<item>
+<title>BTV4</title>
+<link>http://hlscache.fptplay.net.vn/live/btv4_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_binh-duong-4.png</thumbnail>
+</item>
+<item>
+<title>DONG NAI 1</title>
+<link>http://hlscache.fptplay.net.vn/live/dongnai1_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_dong-nai-1.png</thumbnail>
+</item>
+<item>
+<title>DONG NAI 2</title>
+<link>http://hlscache.fptplay.net.vn/live/dongnai2_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_dong-nai-2.png</thumbnail>
+</item>
+<item>
+<title>DA NANG 1</title>
+<link>http://hlscache.fptplay.net.vn/live/danang1_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-1.png</thumbnail>
+</item>
+<item>
+<title>DA NANG 2</title>
+<link>http://hlscache.fptplay.net.vn/live/danang2_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-2.png</thumbnail>
+</item>
+<item>
+<title>CAN THO</title>
+<link>http://hlscache.fptplay.net.vn/live/cantho_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_can-tho.png</thumbnail>
+</item>
+<item>
+<title>TIEN GIANG</title>
+<link>http://hlscache.fptplay.net.vn/livez/tiengiang_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_tien-giang.png</thumbnail>
+</item>
+<item>
+<title>AN GIANG</title>
+<link>http://hlscache.fptplay.net.vn/live/angiang_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_an-giang.png</thumbnail>
+</item>
+<item>
+<title>HAI PHONG</title>
+<link>http://hlscache.fptplay.net.vn/livez/haiphong_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_hai-phong.png</thumbnail>
+</item>
+<item>
+<title>BINH DINH</title>
+<link>http://scache.fptplay.net.vn/live/binhdinh_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_binh-dinh.png</thumbnail>
+</item>
+<item>
+<title>THANH HÓA</title>
+<link>http://hlscache.fptplay.net.vn/live/thanhhoa_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_thanh-hoa_141457714089.png</thumbnail>
+</item>
+<item>
+<title>KHANH HOA</title>
+<link>http://scache.fptplay.net.vn/live/khanhhoa_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_khanh-hoa_141457723074.png</thumbnail>
+</item>
+<item>
+<title>NINH BINH</title>
+<link>http://scache.fptplay.net.vn/live/ninhbinh_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_ninh-binh_141457725841.png</thumbnail>
+</item>
+<item>
+<title>NGHE AN</title>
+<link>http://scache.fptplay.net.vn/livez/nghean_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_nghe-an_14145773592.png</thumbnail>
+</item>
+<item>
+<title>BÀ RỊA</title>
+<link>http://scache.fptplay.net.vn/live/bariavungtau_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ba-ria-vung-tau_141457728259.png</thumbnail>
+</item>
+<item>
+<title>QUANG NINH 1</title>
+<link>http://scache.fptplay.net.vn/livez/quangninh1_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-1_141457746552.png</thumbnail>
+</item>
+<item>
+<title>QUANG NINH 3</title>
+<link>http://scache.fptplay.net.vn/livez/quangninh3_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-3_141457749017.png</thumbnail>
+</item>
+<item>
+<title>TUYEN QUANG</title>
+<link>http://scache.fptplay.net.vn/livez/tuyenquang_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_tuyen-quang_141457751675.png</thumbnail>
+</item>
+<item>
+<title>HOA BINH</title>
+<link>http://scache.fptplay.net.vn/livez/hoabinh_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_hoa-binh_141457760549.png</thumbnail>
+</item>
+<item>
+<title>XONE FM</title>
+<link>http://scache.fptplay.net.vn/liveshow/xonefmlive/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_xonefm_142286175348.png</thumbnail>
+</item>
+<item>
+<title>VOV GIAO THÔNG HN</title>
+<link>http://scache.fptplay.net.vn/event/vovgt.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vov-giao-thong_142318716137.png</thumbnail>
+</item>
+
+</channel>
+<channel>
+<name>[COLOR FF00FF00][B]TH SCTV[/B][COLOR blue][/COLOR]</name>
+<thumbnail>http://i.imgur.com/txkUMJI.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD SÓNG NHẠC</title>
+<link>rtmpe://112.197.2.135/glive/C006_HD_4 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/PCZX6MQ.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD DU LỊCH</title>
+<link>rtmpe://112.197.2.135/glive/C007_HD_4 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/LDqXIO7.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD PHIM VIỆT</title>
+<link>rtmpe://112.197.2.135/glive/C009_HD_4 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/KHHTcV9.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD PHIM CHÂU Á</title>
+<link>rtmpe://112.197.2.135/glive/C010_HD_4 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/KHHTcV9.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD HÀI</title>
+<link>rtmpe://112.197.2.135/glive/C011_HD_4 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/WbjVD63.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD SÂN KHẤU</title>
+<link>rtmpe://112.197.2.135/glive/C012_HD_4 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/laZTq3E.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD PHIM TỔNG HỢP</title>
+<link>rtmpe://112.197.2.135/glive/C013_HD_4 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/OLd6ZYa.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD GIẢI TRÍ TỔNG HỢP</title>
+<link>rtmpe://112.197.2.135/glive/C014_HD_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/USymiOG.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD PHIM NƯỚC NGOÀI ĐẶC SẮC</title>
+<link>rtmpe://112.197.2.135/glive/C015_HD_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/HBAetGK.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD THIẾU NHI</title>
+<link>rtmpe://112.197.2.135/glive/C016_HD_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/8kBRpgw.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD PHỤ NỮ VÀ GIA ĐÌNH</title>
+<link>rtmpe://112.197.2.135/glive/C017_HD_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/lpYGErZ.png</thumbnail>
+</item>
+<item>
+<title>SCTV15 HD - Kênh Thể Thao</title>
+<link>rtmpe://112.197.2.135/glive/C042_SD_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv15.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD THỂ THAO</title>
+<link>rtmpe://112.197.2.135/glive/C008_HD_4 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/uBKdWdw.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD STAR MOVIES</title>
+<link>rtmpe://112.197.2.135/glive/C001_HD_4 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://i.imgur.com/w9qCgb9.png</thumbnail>
+</item>
+<item>
+<title>SCTV1 - Kênh Hài</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv1_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv1.png</thumbnail>
+</item>
+<item>
+<title>SCTV2 - Kênh Âm Nhạc Quốc Tế</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv2_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv2.png</thumbnail>
+</item>
+<item>
+<title>SCTV3 - Kênh Sao TV</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv3_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv3.png</thumbnail>
+</item>
+<item>
+<title>SCTV4 - Kênh Tổng Hợp</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv4_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv4.png</thumbnail>
+</item>
+<item>
+<title>SCTV5 - Kênh Mua Sắm</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv5_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv5.png</thumbnail>
+</item>
+<item>
+<title>SCTV6 - Kênh Sóng Nhạc</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv6_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv6.png</thumbnail>
+</item>
+<item>
+<title>SCTV7 - Kênh Sân Khấu & VNTH</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv7_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv7.png</thumbnail>
+</item>
+<item>
+<title>SCTV8 - Kênh Thông Tin Kinh Tế</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv8_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv8.png</thumbnail>
+</item>
+<item>
+<title>SCTV9 - Kênh Phim Châu Á</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv9_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv9.png</thumbnail>
+</item>
+<item>
+<title>SCTV10 - Kênh Shopping</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv10_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv10.png</thumbnail>
+</item>
+<item>
+<title>SCTV11 - Kênh Truyền Hình Ca Nhạc</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv11_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv11.png</thumbnail>
+</item>
+<item>
+<title>SCTV12 - Kênh Du Lịch Khám Phá</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv12_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv12.png</thumbnail>
+</item>
+<item>
+<title>SCTV13 - Kênh Phụ Nữ & Gia Đình</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv13_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv13.png</thumbnail>
+</item>
+<item>
+<title>SCTV14 - Kênh Phim Việt</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv14_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv14.png</thumbnail>
+</item>
+<item>
+<title>SCTV15 - Kênh Thể Thao</title>
+<link>rtmpe://112.197.2.135/glive/C042_SD_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv15.png</thumbnail>
+</item>
+<item>
+<title>SCTV 16 - Kênh Phim Nước Ngoài</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv16_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv16.png</thumbnail>
+</item>
+<item>
+<title>SCTV 17 - Kênh Phim Truyện Chọn Lọc</title>
+<link>rtmpe://112.197.2.135:1935/live2/sctv17_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv-phimtonghop.png</thumbnail>
+</item>
+<item>
+<title>SCTV 18 - Kênh Thể Thao HD</title>
+<link>rtmpe://112.197.2.135/glive/C008_HD_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv-hd-thethao.png</thumbnail>
+</item>
+<item>
+<title>VTV1</title>
+<link>rtmpe://112.197.2.135:1935/live2/vtv1_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3 flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+<thumbnail>http://img.htvonline.com.vn/livetv/21082013/vtv1_51961377055325.png</thumbnail>
+</item>
+<item>
+<title>VTV2</title>
+<link>rtmpe://112.197.2.135:1935/live2/vtv2_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3 flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtv2.png</thumbnail>
+</item>
+<item>
+<title>VTV3</title>
+<link>rtmpe://112.197.2.135:1935/live2/vtv3_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3 flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.mytvnet.vn/upload/files/2013/12/vtv3.png</thumbnail>
+</item>
+<item>
+<title>VTV4</title>
+<link>rtmpe://112.197.2.135:1935/live1/vtv4_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3 flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtv4.png</thumbnail>
+</item>
+<item>
+<title>VTV6</title>
+<link>rtmpe://112.197.2.135:1935/live1/vtv6_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3 flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.mytvnet.vn/upload/files/2013/12/vtv6.png</thumbnail>
+</item>
+<item>
+<title>ANTV</title>
+<link>rtmpe://112.197.2.135:1935/live1/antv_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3 flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png</thumbnail>
+</item>
+<item>
+<title>HTV9</title>
+<link>rtmpe://112.197.2.135:1935/live1/htv9_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3 flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.mytvnet.vn/upload/files/2013/12/htv9.png</thumbnail>
+</item>
+<item>
+<title>HaNoiTV1</title>
+<link>rtmpe://112.197.2.135:1935/live1/HN1_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3 flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_hanoitv-1.png</thumbnail>
+</item>
+<item>
+<title>THVL1</title>
+<link>rtmpe://112.197.2.135:1935/live1/thvl_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=qrtkL6xTjSqeG4q3 flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+<thumbnail>http://img.htvonline.com.vn/livetv/20012014/thvl1_65831390202372.png</thumbnail>
+</item>
+
+</channel>
+<channel>
+<name>[COLOR FF00FF00][B]TH AN VIÊN[/B][COLOR blue][/COLOR]</name>
+<thumbnail>http://i.imgur.com/NCG1jio.png</thumbnail>
+</item>
+<item>
+<title>VTV1 HD</title>
+<link>http://113.160.49.34/lives/origin03/vtv1hd.isml/vtv1hd.m3u8</link>
+<thumbnail>http://i.imgur.com/m8WU8BL.png</thumbnail>
+</item>
+<item>
+<title>VTV3 HD</title>
+<link>http://113.160.49.34/lives/origin03/vtv3hd.isml/vtv3hd.m3u8</link>
+<thumbnail>http://i.imgur.com/OwtIFz1.png</thumbnail>
+</item>
+<item>
+<title>VTC1 HD</title>
+<link>http://113.160.49.34/lives/origin03/vtchd1hd.isml/vtchd1hd.m3u8</link>
+<thumbnail>http://i.imgur.com/HC5iUuK.png</thumbnail>
+</item>
+<item>
+<title>VTCHD2</title>
+<link>http://113.160.49.34/lives/origin03/vtchd2hd.isml/vtchd2hd.m3u8</link>
+<thumbnail>http://i.imgur.com/PNJ812c.png</thumbnail>
+</item>
+<item>
+<title>VTC3 HD</title>
+<link>http://113.160.49.34/lives/origin03/vtc3hd.isml/vtc3hd.m3u8</link>
+<thumbnail>http://i.imgur.com/CsXS6ve.png</thumbnail>
+</item>
+<item>
+<title>ITV HD</title>
+<link>http://113.160.49.34/lives/origin03/itvhd.isml/itvhd.m3u8</link>
+<thumbnail>http://i.imgur.com/YnunTc5.png</thumbnail>
+</item>
+<item>
+<title>NATGEO WILD HD</title>
+<link>http://113.160.49.34/lives/origin03/natgeohd.isml/natgeohd.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_asia_hd.png</thumbnail>
+</item>
+<item>
+<title>DISCOVERY WORLD HD</title>
+<link>http://113.160.49.34/lives/origin03/discoveryhd.isml/discoveryhd.m3u8</link>
+<thumbnail>http://i.imgur.com/eNPI6Bd.png</thumbnail>
+</item>
+<item>
+<title>STAR MOVIES HD</title>
+<link>http://113.160.49.34/lives/origin03/moviehd.isml/moviehd.m3u8</link>
+<thumbnail>http://img.htvonline.com.vn/livetv/18052014/star-movies-hd--edited_75921400346206.png</thumbnail>
+</item>
+<item>
+<title>HBO HD</title>
+<link>http://113.160.49.34/lives/origin03/hbohd.isml/hbohd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/hbohd.png</thumbnail>
+</item>
+<item>
+<title>AXN HD</title>
+<link>http://113.160.49.34/lives/origin03/axnhd.isml/axnhd.m3u8</link>
+<thumbnail>http://i.imgur.com/Pi3AFTe.png</thumbnail>
+</item>
+<item>
+<title>STARWORLD HD</title>
+<link>http://113.160.49.34/lives/origin03/starworldhd.isml/starworldhd.m3u8</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/HDTV/Starworld.png</thumbnail>
+</item>
+<item>
+<title>FOXSPORT HD</title>
+<link>http://113.160.49.34/lives/origin03/foxhd.isml/foxhd.m3u8</link>
+<thumbnail>http://i.imgur.com/1yIIQcm.png</thumbnail>
+</item>
+<item>
+<title>FASHION HD</title>
+<link>http://113.160.49.34/lives/origin03/fashionhd.isml/fashionhd.m3u8</link>
+<thumbnail>http://i.imgur.com/IeuIsMr.png</thumbnail>
+</item>
+<item>
+<title>ANIMAL PLANET</title>
+<link>http://113.160.49.34/lives/origin03/animalsd.isml/animalsd.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/3a/Animal_Planet_Canada_Logo.PNG</thumbnail>
+</item>
+<item>
+<title>CINEMAX</title>
+<link>http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/cinemax.png</thumbnail>
+</item>
+<item>
+<title>STAR SPORTS</title>
+<link>http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/star-sports.png</thumbnail>
+</item>
+<item>
+<title>CHANNEL V</title>
+<link>http://113.160.49.34/lives/origin03/channelvsd.isml/channelvsd.m3u8</link>
+<thumbnail>http://i.imgur.com/Esl7XMG.png</thumbnail>
+</item>
+<item>
+<title>CN</title>
+<link>http://113.160.49.34/lives/origin03/carsd.isml/carsd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/cartoon-network.png</thumbnail>
+</item>
+<item>
+<title>AVG NCM BYV10</title>
+<link>http://113.160.49.34/lives/origin03/ncmsd.isml/ncmsd.m3u8</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png</thumbnail>
+</item>
+<item>
+<title>AVG PHIM HAY</title>
+<link>http://113.160.49.34/lives/origin01/phimhaysd.isml/phimhaysd.m3u8</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png</thumbnail>
+</item>
+<item>
+<title>AVG AN NINH THE GIOI</title>
+<link>http://113.160.49.34/lives/origin01/STTVsd.isml/STTVsd.m3u8</link>
+<thumbnail>http://i.imgur.com/j7NsBwD.png</thumbnail>
+</item>
+<item>
+<title>AVG SAM CHANNEL</title>
+<link>http://113.160.49.34/lives/origin01/samsd.isml/samsd.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png</thumbnail>
+</item>
+<item>
+<title>AVG NHAC NHE</title>
+<link>http://113.160.49.34/lives/origin03/nhacnhesd.isml/nhacnhesd.m3u8</link>
+<thumbnail>http://i.imgur.com/WqkzrkP.png</thumbnail>
+</item>
+<item>
+<title>AVG NHAC TRU TINH</title>
+<link>http://113.160.49.34/lives/origin03/nhactrutinhsd.isml/nhactrutinhsd.m3u8</link>
+<thumbnail>http://i.imgur.com/CjyMQlf.png</thumbnail>
+</item>
+<item>
+<title>AVG NHAC TRE</title>
+<link>http://113.160.49.34/lives/origin03/nhactresd.isml/nhactresd.m3u8</link>
+<thumbnail>http://i.imgur.com/ItK5wxe.png</thumbnail>
+</item>
+<item>
+<title>AVG NHAC CACH MANG</title>
+<link>http://113.160.49.34/lives/origin03/nhaccachmangsd.isml/nhaccachmangsd.m3u8</link>
+<thumbnail>http://i.imgur.com/BGkXUZI.png</thumbnail>
+</item>
+<item>
+<title>AVG NHAC THIEU NHI</title>
+<link>http://113.160.49.34/lives/origin03/nhacthieunhisd.isml/nhacthieunhisd.m3u8</link>
+<thumbnail>http://i.imgur.com/znxQxsL.png</thumbnail>
+</item>
+<item>
+<title>AVG NHAC DAN TOC</title>
+<link>http://113.160.49.34/lives/origin03/nhacdantocsd.isml/nhacdantocsd.m3u8</link>
+<thumbnail>http://i.imgur.com/f7GkIsd.png</thumbnail>
+</item>
+<item>
+<title>AVG NHAC NAM BO</title>
+<link>http://113.160.49.34/lives/origin03/nhacnambosd.isml/nhacnambosd.m3u8</link>
+<thumbnail>http://i.imgur.com/RdxGi1R.png</thumbnail>
+</item>
+<item>
+<title>AVG NHAC CO DIEN</title>
+<link>http://113.160.49.34/lives/origin01/nhaccodiensd.isml/nhaccodiensd.m3u8</link>
+<thumbnail>http://i.imgur.com/ZiQ00v3.png</thumbnail>
+</item>
+<item>
+<title>AVG THĐT 2</title>
+<link>http://113.160.49.34/lives/origin03/mientaysd.isml/mientaysd.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png</thumbnail>
+</item>
+<item>
+<title>AVG VIETTEEN</title>
+<link>http://113.160.49.34/lives/origin03/vietteensd.isml/vietteensd.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vietteen_141217629418.png</thumbnail>
+</item>
+<item>
+<title>AVG DOC SACH</title>
+<link>http://113.160.49.34/lives/origin01/docsachsd.isml/docsachsd.m3u8</link>
+<thumbnail>http://i.imgur.com/x9fUJ9a.png</thumbnail>
+</item>
+<item>
+<title>VTV1</title>
+<link>http://113.160.49.34/lives/origin03/vtv1sd.isml/vtv1sd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/vtv1.png</thumbnail>
+</item>
+<item>
+<title>VTV2</title>
+<link>http://113.160.49.34/lives/origin03/vtv2sd.isml/vtv2sd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/vtv2.png</thumbnail>
+</item>
+<item>
+<title>VTV3</title>
+<link>http://113.160.49.34/lives/origin03/vtv3sd.isml/vtv3sd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/vtv3.png</thumbnail>
+</item>
+<item>
+<title>VTV4</title>
+<link>http://113.160.49.34/lives/origin03/vtv4sd.isml/vtv4sd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/vtv4.png</thumbnail>
+</item>
+<item>
+<title>VTV6</title>
+<link>http://113.160.49.34/lives/origin03/vtv6sd.isml/vtv6sd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/vtv6.png</thumbnail>
+</item>
+<item>
+<title>ANTV</title>
+<link>http://113.160.49.34/lives/origin02/antvsd.isml/antvsd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/antv.png</thumbnail>
+</item>
+<item>
+<title>QPVN</title>
+<link>http://113.160.49.34/lives/origin02/qptvsd.isml/qptvsd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/qpvn.png</thumbnail>
+</item>
+<item>
+<title>VTVCAB8 BiBi</title>
+<link>http://113.160.49.34/lives/origin03/bibisd.isml/bibisd.m3u8</link>
+<thumbnail>http://i.imgur.com/Sjc6xj8.png</thumbnail>
+</item>
+<item>
+<title>HTV2</title>
+<link>http://113.160.49.34/lives/origin02/ttxvnsd.isml/ttxvnsd.m3u8</link>
+<thumbnail>http://i.imgur.com/s7x0UhN.png</thumbnail>
+</item>
+<item>
+<title>HTV7</title>
+<link>http://113.160.49.34/lives/origin01/htv7sd.isml/htv7sd.m3u8</link>
+<thumbnail>http://i.imgur.com/P7yWIBI.png</thumbnail>
+</item>
+<item>
+<title>HTV9</title>
+<link>http://113.160.49.34/lives/origin02/htv9sd.isml/htv9sd.m3u8</link>
+<thumbnail>http://i.imgur.com/N3nCaWT.png</thumbnail>
+</item>
+<item>
+<title>FBNC</title>
+<link>http://113.160.49.34/lives/origin02/fbncsd.isml/fbncsd.m3u8</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_fbnc_141870056938.png</thumbnail>
+</item>
+<item>
+<title>VTC1</title>
+<link>http://113.160.49.34/lives/origin01/vtc1sd.isml/vtc1sd.m3u8</link>
+<thumbnail>http://i.imgur.com/VJ8DiUW.png</thumbnail>
+</item>
+<item>
+<title>VTC2</title>
+<link>http://113.160.49.34/lives/origin01/vtc2sd.isml/vtc2sd.m3u8</link>
+<thumbnail>http://i.imgur.com/2MwvQXo.png</thumbnail>
+</item>
+<item>
+<title>VTC3</title>
+<link>http://113.160.49.34/lives/origin01/vtc3sd.isml/vtc3sd.m3u8</link>
+<thumbnail>http://i.imgur.com/0t3ciaM.png</thumbnail>
+</item>
+<item>
+<title>VTC4</title>
+<link>http://113.160.49.34/lives/origin01/vtc4sd.isml/vtc4sd.m3u8</link>
+<thumbnail>http://i.imgur.com/fitz1bW.png</thumbnail>
+</item>
+<item>
+<title>VTC5</title>
+<link>http://113.160.49.34/lives/origin01/vtc5sd.isml/vtc5sd.m3u8</link>
+<thumbnail>http://i.imgur.com/3QYpmSw.png</thumbnail>
+</item>
+<item>
+<title>VTC6</title>
+<link>http://113.160.49.34/lives/origin01/vtc6sd.isml/vtc6sd.m3u8</link>
+<thumbnail>http://i.imgur.com/xXeBAok.png</thumbnail>
+</item>
+<item>
+<title>VTC7</title>
+<link>http://113.160.49.34/lives/origin01/vtc7sd.isml/vtc7sd.m3u8</link>
+<thumbnail>http://i.imgur.com/ZfjtPa2.png</thumbnail>
+</item>
+<item>
+<title>VTC8</title>
+<link>http://113.160.49.34/lives/origin01/vtc8sd.isml/vtc8sd.m3u8</link>
+<thumbnail>http://i.imgur.com/uPxgmeN.png</thumbnail>
+</item>
+<item>
+<title>VTC9</title>
+<link>http://113.160.49.34/lives/origin01/vtc9sd.isml/vtc9sd.m3u8</link>
+<thumbnail>http://i.imgur.com/5SoblfV.png</thumbnail>
+</item>
+<item>
+<title>VTC10</title>
+<link>http://113.160.49.34/lives/origin01/vtc10sd.isml/vtc10sd.m3u8</link>
+<thumbnail>http://i.imgur.com/5GpXF4g.png</thumbnail>
+</item>
+<item>
+<title>VTC11</title>
+<link>http://113.160.49.34/lives/origin01/vtc11sd.isml/vtc11sd.m3u8</link>
+<thumbnail>http://i.imgur.com/Vg5XFcf.png</thumbnail>
+</item>
+<item>
+<title>VTC12</title>
+<link>http://113.160.49.34/lives/origin01/vtc12sd.isml/vtc12sd.m3u8</link>
+<thumbnail>http://i.imgur.com/aKmAf9Z.png</thumbnail>
+</item>
+<item>
+<title>iTV VTC13</title>
+<link>http://113.160.49.34/lives/origin01/vtc13sd.isml/vtc13sd.m3u8</link>
+<thumbnail>http://i.imgur.com/ZIRi8xh.png</thumbnail>
+</item>
+<item>
+<title>VTC14</title>
+<link>http://113.160.49.34/lives/origin01/vtc14sd.isml/vtc14sd.m3u8</link>
+<thumbnail>http://i.imgur.com/annOIzX.png</thumbnail>
+</item>
+<item>
+<title>VTC16</title>
+<link>http://113.160.49.34/lives/origin01/vtc16sd.isml/vtc16sd.m3u8</link>
+<thumbnail>http://i.imgur.com/aJyUj9n.png</thumbnail>
+</item>
+<item>
+<title>HA NOI 1</title>
+<link>http://113.160.49.34/lives/origin01/h1sd.isml/h1sd.m3u8</link>
+<thumbnail>http://i.imgur.com/kFSFBHp.png</thumbnail>
+</item>
+<item>
+<title>HAI PHONG</title>
+<link>http://113.160.49.34/lives/origin01/haiphongsd.isml/haiphongsd.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_hai-phong.png</thumbnail>
+</item>
+<item>
+<title>THAI NGUYEN 1</title>
+<link>http://113.160.49.34/lives/origin01/thainguyensd.isml/thainguyensd.m3u8</link>
+<thumbnail>http://www.mytvnet.vn/upload/files/2013/12/thainguyen.png</thumbnail>
+</item>
+<item>
+<title>HOA BINH</title>
+<link>http://113.160.49.34/lives/origin02/hbtvsd.isml/hbtvsd.m3u8</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_hoa-binh_141457760549.png</thumbnail>
+</item>
+<item>
+<title>TUYEN QUANG</title>
+<link>http://113.160.49.34/lives/origin02/ttv2sd.isml/ttv2sd.m3u8</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_tuyen-quang_141457751675.png</thumbnail>
+</item>
+<item>
+<title>QN 1</title>
+<link>http://113.160.49.34/lives/origin01/qtv1sd.isml/qtv1sd.m3u8</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-1_141457746552.png</thumbnail>
+</item>
+<item>
+<title>QN 3</title>
+<link>http://113.160.49.34/lives/origin02/qtv3sd.isml/qtv3sd.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-3_141457749017.png</thumbnail>
+</item>
+<item>
+<title>NINH BINH</title>
+<link>http://113.160.49.34/lives/origin02/ntv3sd.isml/ntv3sd.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_ninh-binh_141457725841.png</thumbnail>
+</item>
+<item>
+<title>THANH HOA</title>
+<link>http://113.160.49.34/lives/origin01/thanhhoasd.isml/thanhhoasd.m3u8</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_thanh-hoa_141457714089.png</thumbnail>
+</item>
+<item>
+<title>NGHE AN</title>
+<link>http://113.160.49.34/lives/origin01/ngheansd.isml/ngheansd.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_nghe-an_14145773592.png</thumbnail>
+</item>
+<item>
+<title>QUANG NGAI</title>
+<link>http://113.160.49.34/lives/origin02/ptq1sd.isml/ptq1sd.m3u8</link>
+<thumbnail>http://www.mytvnet.vn/upload/files/2013/12/quangngai.png</thumbnail>
+</item>
+<item>
+<title>NINH THUAN</title>
+<link>http://113.160.49.34/lives/origin02/ninhthuansd.isml/ninhthuansd.m3u8</link>
+<thumbnail>http://www.mytvnet.vn/upload/files/2013/12/ninhthuan.png</thumbnail>
+</item>
+<item>
+<title>LAM DONG</title>
+<link>http://113.160.49.34/lives/origin02/ltvsd.isml/ltvsd.m3u8</link>
+<thumbnail>http://www.mytvnet.vn/upload/files/2013/12/lamdong.png</thumbnail>
+</item>
+<item>
+<title>GIA LAI</title>
+<link>http://113.160.49.34/lives/origin02/thglsd.isml/thglsd.m3u8</link>
+<thumbnail>http://www.mytvnet.vn/upload/files/2013/12/gialai.png</thumbnail>
+</item>
+<item>
+<title>BINH PHUOC 2</title>
+<link>http://113.160.49.34/lives/origin02/bptv2sd.isml/bptv2sd.m3u8</link>
+<thumbnail>http://www.mytvnet.vn/upload/files/2013/12/binhphuoc.png</thumbnail>
+</item>
+<item>
+<title>DONG NAI 1</title>
+<link>http://113.160.49.34/lives/origin02/dn1sd.isml/dn1sd.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_dong-nai-1.png</thumbnail>
+</item>
+<item>
+<title>DONG NAI 2</title>
+<link>http://113.160.49.34/lives/origin02/dn2sd.isml/dn2sd.m3u8</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_dong-nai-2.png</thumbnail>
+</item>
+<item>
+<title>BA RIA VUNG TAU</title>
+<link>http://113.160.49.34/lives/origin02/brtsd.isml/brtsd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/ba-ria-vung-tau-brt.png</thumbnail>
+</item>
+<item>
+<title>VINH LONG 1</title>
+<link>http://113.160.49.34/lives/origin01/vinhlongsd.isml/vinhlongsd.m3u8</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png</thumbnail>
+</item>
+<item>
+<title>VINH LONG 2</title>
+<link>http://113.160.49.34/lives/origin02/thvl2sd.isml/thvl2sd.m3u8</link>
+<thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-2.png</thumbnail>
+</item>
+<item>
+<title>TRA VINH</title>
+<link>http://113.160.49.34/lives/origin02/thtvsd.isml/thtvsd.m3u8</link>
+<thumbnail>http://www.mytvnet.vn/upload/files/2013/12/travinh.png</thumbnail>
+</item>
+<item>
+<title>KIEN GIANG 1</title>
+<link>http://113.160.49.34/lives/origin02/kg1sd.isml/kg1sd.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/kien-giang-kgtv.png</thumbnail>
+</item>
+<item>
+<title>AN GIANG 1</title>
+<link>http://113.160.49.34/lives/origin02/atvsd.isml/atvsd.m3u8</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_an-giang.png</thumbnail>
+</item>
+
+</channel>
+<channel>
+<name>[COLOR FF00FF00][B]TH LIFE TV[/B][COLOR blue][/COLOR]</name>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/lifetvA.png</thumbnail>
+</item>
+<item>
+<title>LIFETV</title>
+<link>rtmp://203.162.121.230/live/live_lifetv?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/lifetvA.png</thumbnail>
+</item>
+<item>
+<title>KÊNH 9 MUSIC</title>
+<link>rtmp://203.162.121.230/live//9_music?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/K9A.png</thumbnail>
+</item>
+<item>
+<title>FITNESS 360</title>
+<link>rtmp://203.162.121.230/live//fitness_360?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/360A.png</thumbnail>
+</item>
+<item>
+<title>MODEL CHANNEL</title>
+<link>rtmp://203.162.121.230/live//model_channel?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/MOCA.png</thumbnail>
+</item>
+<item>
+<title>DI SẢN VIỆT</title>
+<link>rtmp://203.162.121.230/live//disanviet?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/disanA.png</thumbnail>
+</item>
+<item>
+<title>4 MEN</title>
+<link>rtmp://203.162.121.230/live//4Men?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/4menA.png</thumbnail>
+</item>
+<item>
+<title>2 Channel Vietnam</title>
+<link>rtmp://203.162.121.230/live//2channel?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/2channelA.png</thumbnail>
+</item>
+<item>
+<title>SOTV</title>
+<link>rtmp://203.162.121.230/live//sotv?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/SOTVA.png</thumbnail>
+</item>
+<item>
+<title>TECH CHANNEL</title>
+<link>rtmp://203.162.121.230/live//tech?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/techA.png</thumbnail>
+</item>
+<item>
+<title>Kênh 911</title>
+<link>rtmp://203.162.121.230/live//911?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/911A.png</thumbnail>
+</item>
+<item>
+<title>TRUYỀN THÔNG VIỆT</title>
+<link>rtmp://203.162.121.230/live//ttv?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/ttbvA.png</thumbnail>
+</item>
+
+</channel>
+<channel>
+<name>[COLOR FF00FF00][B]TH ACCESSASIA[/B][COLOR blue][/COLOR]</name>
+<thumbnail>http://is4.mzstatic.com/image/pf/us/r30/Purple2/v4/a3/85/15/a3851590-530b-6509-6e93-8f300a71d712/mzl.xxjegevm.png</thumbnail>
+</item>
+<item>
+<title>VTV4</title>
+<link>http://tvod.accessasia.tv:8080/live/vtv4.480p/index.m3u8</link>
+<thumbnail>http://i.imgur.com/QwsdDjH.png</thumbnail>
+</item>
+<item>
+<title>VTVCab1</title>
+<link>http://tvod.accessasia.tv:8080/live/vctv1.480p/index.m3u8</link>
+<thumbnail>http://i.imgur.com/nmmH5NG.png</thumbnail>
+</item>
+<item>
+<title>VTVCab2</title>
+<link>http://tvod.accessasia.tv:8080/live/vctv2.480p/index.m3u8</link>
+<thumbnail>http://i.imgur.com/YNCzLp9.png</thumbnail>
+</item>
+<item>
+<title>VTVCab4</title>
+<link>http://tvod.accessasia.tv:8080/live/vctv4.480p/index.m3u8</link>
+<thumbnail>http://i.imgur.com/zr9dOPm.png</thumbnail>
+</item>
+<item>
+<title>VTVCab8</title>
+<link>http://tvod.accessasia.tv:8080/live/vctv8.480p/index.m3u8</link>
+<thumbnail>http://i.imgur.com/Sjc6xj8.png</thumbnail>
+</item>
+<item>
+<title>VTVCab10</title>
+<link>http://tvod.accessasia.tv:8080/live/vctv10.480p/index.m3u8</link>
+<thumbnail>http://i.imgur.com/aVP5nbS.png</thumbnail>
+</item>
+<item>
+<title>VTVCab17</title>
+<link>http://tvod.accessasia.tv:8080/live/vctv17.480p/index.m3u8</link>
+<thumbnail>http://i.imgur.com/2nOJwku.png</thumbnail>
+</item>
+<item>
+<title>HTVC Du Lich</title>
+<link>http://tvod.accessasia.tv:8080/live/dulichcuocsong.480p/index.m3u8</link>
+<thumbnail>http://img.htvonline.com.vn/livetv/27122013/dulichvacuocsong_32651388139741.png</thumbnail>
+</item>
+<item>
+<title>HTVC THUẦN VIỆT</title>
+<link>http://tvod.accessasia.tv:8080/live/thuanviet.480p/index.m3u8</link>
+<thumbnail>http://img.htvonline.com.vn/livetv/27012014/thuan_viet_67731382411308_87811390814814.png</thumbnail>
+</item>
+<item>
+<title>HTVC FBNC</title>
+<link>http://tvod.accessasia.tv:8080/live/htvcfbnc.480p/index.m3u8</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_fbnc_141870056938.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD-Hài</title>
+<link>http://tvod.accessasia.tv:8080/live/sctvhaihd.480p/index.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv1.png</thumbnail>
+</item>
+<item>
+<title>SCTV14</title>
+<link>http://tvod.accessasia.tv:8080/live/sctv14.480p/index.m3u8</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv14.png</thumbnail>
+</item>
+
+</channel>
+<channel>
+<name>[COLOR FF00FF00][B]TH HẢI NGOẠI[/B][COLOR blue][/COLOR]</name>
+<thumbnail>http://LangSongViet.com/fta4vnForum/upload/uploaded/26_1385260447.png</thumbnail>
+</item>
+<item>
+<title>LSTV</title>
+<link>http://54.152.24.55:1935/vftv/myStream/chunklist_w1863205407.m3u8</link>
+<thumbnail>http://lstv-19f7.kxcdn.com/wp-content/uploads/2015/07/lstv-logo.png</thumbnail>
+</item>
+<item>
+<title>Vietface TV (Canada)</title>
+<link>http://198.179.31.198/live/2936.high.stream/2936.high.stream/index.m3u8</link>
+<thumbnail>http://vietfacetv572.com/wp-content/uploads/2015/05/VietFaceTV-logo1.png</thumbnail>
+</item>
+<item>
+<title>SAIGON TV</title>
+<link>http://74.63.219.99:1935/sgvp/myStream.sdp/playlist.m3u8?wowzasessionid=346039669</link>
+<thumbnail>http://www.saigontv.us//images/saigontv-video/sgtv-header-3.jpg</thumbnail>
+</item>
+<item>
+<title>SAIGON TV</title>
+<link>rtmp://74.63.219.99/sgvp/myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontv.swf live=1 pageUrl=http://www.saigontv.us/</link>
+<thumbnail>http://www.saigontv.us//images/saigontv-video/sgtv-header-3.jpg</thumbnail>
+</item>
+<item>
+<title>VNA TV 57.3</title>
+<link>http://54.152.24.55:1935/vnatv/myStream/chunklist_w253772229.m3u8</link>
+<thumbnail>http://vnatv573.com/images/file/7aoqzb7y0QgBAhQW/w150/vnatv573-logo.png</thumbnail>
+</item>
+<item>
+<title>VBS TELEVISION Channel 57.6</title>
+<link>http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8</link>
+<thumbnail>http://truyenhinhmy.weebly.com/uploads/9/1/1/9/9119445/960723371.png</thumbnail>
+</item>
+<item>
+<title>ABHP TV</title>
+<link>http://54.152.24.55:1935/abhp/myStream/chunklist_w1626380507.m3u8</link>
+<thumbnail>http://abhp.us/templates/js_argos/wright/images/logo.png</thumbnail>
+</item>
+<item>
+<title>VStar TV</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/vstartv/chunklist_w136203269.m3u8</link>
+<thumbnail>http://img.onworldtv.com/355x200/poster/2015/05/19/939231-vstartv_logo.jpg</thumbnail>
+</item>
+<item>
+<title>BYN</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/stream_byn/chunklist_w1394756614.m3u8</link>
+<thumbnail>http://img.onworldtv.com/355x200/banner/2015/03/26/133479-261989-BYNTV.jpg</thumbnail>
+</item>
+<item>
+<title>Vietnamese American Network Television</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/stream_van/chunklist_w1298762665.m3u8</link>
+<thumbnail>http://img.onworldtv.com/355x200/banner/2015/03/26/894908-922708-vantv.jpg</thumbnail>
+</item>
+<item>
+<title>ITV Home Shopping Channel</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/stream_itvshop/chunklist_w429490241.m3u8</link>
+<thumbnail>http://img.onworldtv.com/355x200/banner/2015/03/27/313289-ITV_Logo-2_copy.jpg</thumbnail>
+</item>
+
+</channel>
+<channel>
+<name>[COLOR FF00FF00][B]TH QUỐC TẾ(Máy chủ nước ngoài)[/B][COLOR blue][/COLOR]</name>
+<thumbnail>http://i.imgur.com/u3VkSmw.png</thumbnail>
+</item>
+<item>
+<title>BMP MUSIC S1</title>
+<link>mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BMP MUSIC S2</title>
+<link>mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Old movies HongKong</title>
+<link>rtmp://lxrtmp.load.cdn.zhanqi.tv/zqlive/15773_BDfrG</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Star guard Showbiz HongKong</title>
+<link>rtmp://lxrtmp.load.cdn.zhanqi.tv/zqlive/1285_Zloy4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>London Live</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ABC NEWS</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&amp;b=1200&amp;rebase=on</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARIANG</title>
+<link>http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBS</title>
+<link>http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Aljazeera</title>
+<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_eng_high swfUrl=http://www.watcharab.com/tv/swf/al_jazeera_english.swf/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.watcharab.com/tv/swf/al_jazeera_english.swf timeout=10</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LIFE NEWS</title>
+<link>http://tv.life.ru/lifetv/720p/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Rtve</title>
+<link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RT today</title>
+<link>http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Documania</title>
+<link>http://tv.ut.cx/documania.mp4 timeout=10</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Aljazeera-doc</title>
+<link>http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Dmax GIECMAN</title>
+<link>http://pebbles104-lh.akamaihd.net/i/dmax_1@97398/index_1300_av-p.m3u8|X-Forwarded-For=160.53.186.194</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARTE GIECMAN</title>
+<link>http://pebbles107-lh.akamaihd.net/i/artede_1@97463/index_1300_av-p.m3u8|X-Forwarded-For=160.53.186.194</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARTE FRANCE</title>
+<link>http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NATGEO WILD (Ru)</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NATGEO WILD (latin)</title>
+<link>http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery (Espanol)</title>
+<link>http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery Id (Espanol)</title>
+<link>http://62.210.83.180:1935/liverepeat/discivil377/discivil377/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RT Documentary HD eng</title>
+<link>http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ZDF DE</title>
+<link>http://zdf_hds_de-f.akamaihd.net/i/de14_v1@147090/master.m3u8|X-Forwarded-For=91.63.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ZDF NEO DE</title>
+<link>http://zdf_hds_de-f.akamaihd.net/i/de13_v1@147090/master.m3u8|X-Forwarded-For=91.63.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ZDF INFO DE</title>
+<link>http://zdf_hds_de-f.akamaihd.net/i/de12_v1@87013/master.m3u8|X-Forwarded-For=91.63.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ZDF KULTUR DE</title>
+<link>http://zdf_hds_de-f.akamaihd.net/i/de11_v1@87013/master.m3u8|X-Forwarded-For=91.63.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>3sat DE</title>
+<link>http://zdf_hds_dach-f.akamaihd.net/i/dach10_v1@87031/master.m3u8|X-Forwarded-For=91.63.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARD</title>
+<link>http://pebbles112-lh.akamaihd.net/i/daserste_1@97481/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RTL DE</title>
+<link>http://pebbles106-lh.akamaihd.net/i/rtl_1@97459/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sat.1 DE</title>
+<link>http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ProSieben DE</title>
+<link>http://pebbles106-lh.akamaihd.net/i/prosieben_1@97456/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RTL 2 DE</title>
+<link>http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VOX DE</title>
+<link>http://pebbles108-lh.akamaihd.net/i/vox_1@97466/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Super RTL DE</title>
+<link>http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Eurosport 1 DE</title>
+<link>http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport1 DE</title>
+<link>http://pebbles108-lh.akamaihd.net/i/sport1_1@97464/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Disney Channel DE</title>
+<link>http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ProSieben Maxx DE</title>
+<link>http://pebbles107-lh.akamaihd.net/i/pro7maxx_1@97522/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Super RTL Nitro DE</title>
+<link>http://pebbles106-lh.akamaihd.net/i/rtlnitro_1@97458/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KiKa</title>
+<link>http://pebbles113-lh.akamaihd.net/i/kika_1@97487/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Nickelodeon DE</title>
+<link>http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VIVA DE</title>
+<link>http://pebbles105-lh.akamaihd.net/i/viva_1@97493/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DMAX DE</title>
+<link>http://pebbles104-lh.akamaihd.net/i/dmax_1@97398/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>WDR DE</title>
+<link>http://pebbles114-lh.akamaihd.net/i/wdr_1@97490/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ORF 1</title>
+<link>http://pebbles113-lh.akamaihd.net/i/orf1_1@97573/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ORF 2</title>
+<link>http://pebbles113-lh.akamaihd.net/i/orf2_1@97574/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SRF 1</title>
+<link>http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SRF 2</title>
+<link>http://pebbles110-lh.akamaihd.net/i/sf2_1@97475/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>3 PLUS</title>
+<link>http://pebbles114-lh.akamaihd.net/i/3plus_1@97489/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ATV DE</title>
+<link>http://pebbles114-lh.akamaihd.net/i/atv_1@97491/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tom and Jerry</title>
+<link>rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html</link>
+<thumbnail></thumbnail>
+</item>
+
+</channel>
+<channel>
+<name>[COLOR FF00FF00][B]RADIO TH[/B][COLOR blue][/COLOR]</name>
+<thumbnail>http://i.imgur.com/Jnu08Tw.png</thumbnail>
+</item>
+<item>
+<title>VOV1 S1</title>
+<link>http://123.29.68.10/radio/myradio001.m3u8</link>
+<thumbnail>http://diendan.vov.vn/lib/images/logo/vov1.png</thumbnail>
+</item>
+<item>
+<title>VOV1 S2</title>
+<link>http://210.245.60.242:1935/vov1/vov1/playlist.m3u8</link>
+<thumbnail>http://diendan.vov.vn/lib/images/logo/vov1.png</thumbnail>
+</item>
+<item>
+<title>VOV2 S1</title>
+<link>http://123.29.68.10/radio/myradio002.m3u8</link>
+<thumbnail>http://diendan.vov.vn/lib/images/logo/vov2.png</thumbnail>
+</item>
+<item>
+<title>VOV2 S2</title>
+<link>http://210.245.60.242:1935/vov2/vov2/playlist.m3u8</link>
+<thumbnail>http://diendan.vov.vn/lib/images/logo/vov2.png</thumbnail>
+</item>
+<item>
+<title>VOV3 S1</title>
+<link>http://123.29.68.10/radio/myradio003.m3u8</link>
+<thumbnail>http://diendan.vov.vn/lib/images/logo/vov3.png</thumbnail>
+</item>
+<item>
+<title>VOV3 S2</title>
+<link>http://210.245.60.242:1935/vov3/vov3/playlist.m3u8</link>
+<thumbnail>http://diendan.vov.vn/lib/images/logo/vov3.png</thumbnail>
+</item>
+<item>
+<title>VOV5</title>
+<link>http://123.29.68.10/radio/myradio004.m3u8</link>
+<thumbnail>http://diendan.vov.vn/lib/images/logo/vov5.png</thumbnail>
+</item>
+<item>
+<title>RADIO XONE FM</title>
+<link>http://scache.fptplay.net.vn/liveshow/xonefmlive/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&amp;amp;did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Kênh FM90Mhz - HANOITV.VN</title>
+<link>rtmp://vovandroid.radiovietnam.vn:1935/live/hanoi swfUrl=http://hanoi.radiovietnam.vn/media/radioplayer.swf live=1 pageUrl=http://hanoitv.vn/Media/157/Radio.htv</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Kênh JOYFM - HANOITV.VN</title>
+<link>rtmp://radio.joyfm.vn:1935/live playpath=RadioOnline swfUrl=http://hanoitv.vn/JScripts/player.swf live=1 pageUrl=http://hanoitv.vn/Media/157/Radio.htv</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Kênh 98.9 Mhz - Chăm sóc sức khỏe và đời sống</title>
+<link>rtmp://101.99.22.162:1935/live playpath=RadioOnline swfUrl=http://joyfm.vn/flashplayer/player.swf live=1 pageUrl=http://www.joyfm.vn/tai-ung-dung-tren-smartphone-1410397559.html#.Vb3vZ7UeXQc</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VOH-FM 95.6 Mhz</title>
+<link>http://221.132.38.110:1935/live/channel1/playlist.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>VOH-AM 610Kz</title>
+<link>http://221.132.38.110:1935/live/channel2/playlist.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>VOH-FM 99.9 Mhz</title>
+<link>http://221.132.38.110:1935/live/channel3/playlist.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>VOVGT HN</title>
+<link>http://210.245.60.242:1935/vovgt/vovgt/playlist.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>VOVGT TP.HCM</title>
+<link>http://210.245.60.242:1935/vovgtsg/vovgtsg/playlist.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>An Giang Radio</title>
+<link>rtmp://113.161.212.25/live/ playpath=radio swfUrl=http://atv.org.vn/player/player.swf pageUrl=http://nguoiviet.tv/an-giang-radio-2/ live=1 timeout=90</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>Bến Tre Radio</title>
+<link>rtmp://113.163.94.245:1936/live/ playpath=audiostream swfUrl=http://thbt.vn/jwplayer/jwplayer.flash.swf pageUrl=http://thbt.vn/jwplayer/?l=rtmp%3A%2F%2F113.163.94.245%3A1936%2Flive%2Faudiostream&i=http://222.255.237.48/wp-content/uploads/2013/11/nen-truc-tuyen-copy.png&w=400&h=280&a=1 live=1 timeout=90</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>Bình Phước Radio</title>
+<link>rtmp://113.161.180.136/live/ playpath=thbp.radio swfUrl=http://www.bptv.com.vn/vplayer.swf pageUrl=http://www.bptv.com.vn/# live=1 timeout=90</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>Cà Mau Radio</title>
+<link>rtmp://113.161.220.254/livepkgr/ playpath=livestream4?adbe-live-event=liveevent swfUrl=http://ctvcamau.vn/jwplayer/jwplayer.flash.swf pageUrl=http://ctvcamau.vn/jwplayer/?l=rtmp2&i=http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg&w=400&h=300&a=1 live=1 timeout=90</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>Đồng Nai Radio</title>
+<link>rtmp://vov.radiovietnam.vn:1935/live playpath=dongnai.stream swfUrl=http://www.dnrtv.org.vn/static/js/flowplayer/flowplayer-3.2.7.swf pageUrl=http://www.dnrtv.org.vn/ live=1 timeout=90</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>Đồng Tháp Radio</title>
+<link>rtmp://vov.radiovietnam.vn:1935/live playpath=dongthap.stream swfUrl=http://radiovietnam.vn/media/RadioPlayer.swf pageUrl=http://radiovietnam.vn/sharedradio.aspx?rname=dongthap&w=625&h=320 live=1 timeout=90</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>Khánh Hoà Radio</title>
+<link>rtmp://118.69.198.109:1935/live playpath=audio swfUrl=http://thvl.vn/vplayer.swf pageUrl=http://nguoiviet.tv/radio-khanh-hoa/ live=1 timeout=90</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>Sóc Trăng Radio</title>
+<link>rtmp://115.78.3.164/live playpath=FMsoctrang swfUrl=http://thst.vn/MediaPlayer/vplayer.swf pageUrl=http://thst.vn/Phat_thanh.aspx live=1 timeout=90</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>Radio Bolsa</title>
+<link>http://ice7.securenetsystems.net/RBVU?type=.flv&amp;playSessionID=724B6190-D27B-7531-5AD645183B89ED51</link>
+<thumbnail>http://www.ktulaw.com/wp-content/uploads/Radio-Bolsa-logo.jpg</thumbnail>
+</item>
+<item>
+<title>Nationwide Viet Radio (NVR)</title>
+<link>http://vndcradio2.serverroom.us:4480/</link>
+<thumbnail>http://www.nvradio.co/wp-content/uploads/2014/02/logo-s1.png</thumbnail>
+</item>
+<item>
+<title>Sai Gon Network Radio Channel</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/sgn_aud/chunklist_w1625237777_tkd29ybGR0b2tlbnN0YXJ0dGltZT0xNDM0MzU3MDUwJndvcmxkdG9rZW5lbmR0aW1lPTE0MzQ0NDE2NTAmd29ybGR0b2tlbmhhc2g9Nk1id0ViZEplQjI5dU5GT2xXaG1lSVltSWprOXJZbk5aYkdNVndQTEpxZz0=.m3u8</link>
+<thumbnail>http://img.onworldtv.com/250x250/banner/2015/03/11/884908-livetv_sgn_banner.jpg</thumbnail>
+</item>
+<item>
+<title>Little Saigon Radio</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/lstv_aud/chunklist_w1228284842_tkd29ybGR0b2tlbnN0YXJ0dGltZT0xNDM0MzU2Nzk0JndvcmxkdG9rZW5lbmR0aW1lPTE0MzQ0NDEzOTQmd29ybGR0b2tlbmhhc2g9X3dCeXhGU09TLWtGd2RISEREd2JLNDBiWkhfSy1CdG41UVZ1c3RVYUNydz0=.m3u8</link>
+<thumbnail>http://img.onworldtv.com/250x250/banner/2015/03/11/629964-livetv_littlesaigon_banner.jpg</thumbnail>
+</item>
+<item>
+<title>VOA News</title>
+<link>mms://a823.l211056822.c2110.g.lm.akamaistream.net/D/823/2110/v0001/reflector:56822</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>NHK Vietnam</title>
+<link>mms://wm.nhk.or.jp/rj/on_demand/wma/vietnamese.wma</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>RFI Vietnam</title>
+<link>http://95.81.155.3/2584/rfi_en_vietnamien/rfivietnamien.mp3</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjZENWNBcWNhdWFJaGJ2Y2lRUExuNnczT0MzS3E3TEM2VE4zaDh1UU10ZU0/tvicon.png</thumbnail>
+</item>
+<item>
+<title>Cherry radio-Tin tức.giải trí</title>
+<link>http://50.7.96.210:8618/;stream.mp3</link>
+<thumbnail>http://u.jimdo.com/www400/o/s645fdcd2b3bbddf5/img/i46976d828c9b20bd/1438879188/std/image.jpg</thumbnail>
+</item>
+<item>
+<title>Cherry radio-Nhạc trẻ</title>
+<link>http://199.189.111.28:8226/;stream.mp3</link>
+<thumbnail>http://u.jimdo.com/www400/o/s645fdcd2b3bbddf5/img/i46976d828c9b20bd/1438879188/std/image.jpg</thumbnail>
+</item>
+<item>
+<title>Cherry radio-Nhạc trữ tình</title>
+<link>http://174.37.252.208:8500/;stream.mp3</link>
+<thumbnail>http://u.jimdo.com/www400/o/s645fdcd2b3bbddf5/img/i46976d828c9b20bd/1438879188/std/image.jpg</thumbnail>
+</item>
+<item>
+<title>LOVE MUSIC</title>
+<link>http://123.29.68.10/radio/myradio010.m3u8</link>
+<thumbnail>http://i.imgur.com/T1jpZkH.png</thumbnail>
+</item>
+<item>
+<title>JAZZ</title>
+<link>http://123.29.68.10/radio/myradio012.m3u8</link>
+<thumbnail>http://i.imgur.com/RfQX1dX.png</thumbnail>
+</item>
+<item>
+<title>BEST MUSIC DANCE</title>
+<link>http://123.29.68.10/radio/myradio009.m3u8</link>
+<thumbnail>http://i.imgur.com/mcIDe81.png</thumbnail>
+</item>
+<item>
+<title>ROCK 80'S</title>
+<link>http://123.29.68.10/radio/myradio005.m3u8</link>
+<thumbnail>http://i.imgur.com/aE4YVxM.png</thumbnail>
+</item>
+<item>
+<title>COUNTRY MUSIC</title>
+<link>http://123.29.68.10/radio/myradio008.m3u8</link>
+<thumbnail>http://i.imgur.com/FuHA4K2.png</thumbnail>
+</item>
+<item>
+<title>POP ROCK</title>
+<link>http://123.29.68.10/radio/myradio011.m3u8</link>
+<thumbnail>http://i.imgur.com/WhhEpfW.png</thumbnail>
+</item>
+<item>
+<title>CLASSIC GUITAR</title>
+<link>http://123.29.68.10/radio/myradio007.m3u8</link>
+<thumbnail>http://i.imgur.com/RPFicNB.png</thumbnail>
+</item>
+<item>
+<title>THE BEST HITS OF 90</title>
+<link>http://123.29.68.10/radio/myradio006.m3u8</link>
+<thumbnail>http://i.imgur.com/EsJmzmL.png</thumbnail>
+</item>
+</channel>
+
+</channels>
