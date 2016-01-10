@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon
+	id="plugin.video.karaokenight"
+	version="1.0.0"
+	name="[COLOR violet][B]KaraokeNight[/B][/COLOR]"
+	provider-name="anhstar">	
+	<requires>		
+		<import addon="xbmc.python" version="2.1.0" />	
+	</requires>	
+	<extension point="xbmc.python.pluginsource" library="addon.py">		
+		<provides>video</provides>	
+	</extension>	
+	<extension point="xbmc.addon.metadata">
+	<summary>Karaoke Night</summary>		
+	<description>Karaoke list from youtube</description>		
+	<platform>all</platform>	
+</extension>
+</addon>
