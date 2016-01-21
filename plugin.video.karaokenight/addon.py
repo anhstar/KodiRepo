@@ -33,6 +33,8 @@ def doChannel(chan):
     icon = "karaoke-icon.png"
     if 'icon' in chan:
         icon = chan["icon"]    
+        if 'http' not in icon:
+            icon = addonArt+icon
     #xbmc.log("chan:"+str(chan))
     #xbmc.log("chan ID:"+chan["id"])
     url = "plugin://plugin.video.youtube/"+chan["id"].encode('utf-8')
@@ -44,11 +46,14 @@ def doPlaylist(playlist):
     icon = "karaoke-icon.png"
     if 'icon' in playlist:
         icon = playlist["icon"]   
+        if 'http' not in icon:
+            icon = addonArt+icon
+
         xbmc.log("Icon for playlist:"+str(icon))
     #xbmc.log("playlist:"+str(playlist))
     #xbmc.log("playlist ID:"+playlist["id"])
     url = "plugin://plugin.video.youtube/"+playlist["id"].encode('utf-8')
-    li = xbmcgui.ListItem("[COLOR green]" + playlist["name"].encode('utf-8')+ "[/COLOR]", iconImage=addonArt+icon, thumbnailImage=icon)
+    li = xbmcgui.ListItem("[COLOR green]" + playlist["name"].encode('utf-8')+ "[/COLOR]", iconImage=icon, thumbnailImage=icon)
     li.setProperty('isplayable', 'true')
     xbmcplugin.addDirectoryItem(handle=addon_handle , url=url, listitem=li, isFolder=True)  
     
@@ -58,7 +63,8 @@ def doCategory(category, catalogueId):
     icon = "karaoke-icon.png"
     if 'icon' in category:
         icon = category["icon"]    
-    
+        if 'http' not in icon:
+            icon = addonArt+icon
     #xbmc.log(category["name"].encode('utf-8'))
     url = build_url({'mode': 'category', 'foldername': categoryname, "id":str(catalogueId),"catid":str(category["id"]) })
     li = xbmcgui.ListItem("[B][COLOR yellow]" + categoryname+ "[/COLOR][/B]", iconImage=addonArt+icon, thumbnailImage=icon)
