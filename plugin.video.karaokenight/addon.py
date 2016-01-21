@@ -36,7 +36,7 @@ def doChannel(chan):
     #xbmc.log("chan:"+str(chan))
     #xbmc.log("chan ID:"+chan["id"])
     url = "plugin://plugin.video.youtube/"+chan["id"].encode('utf-8')
-    li = xbmcgui.ListItem("[COLOR blue]" + chan["name"].encode('utf-8')+ "[/COLOR]", iconImage=addonArt+icon, thumbnailImage=addonArt+icon)
+    li = xbmcgui.ListItem("[COLOR blue]" + chan["name"].encode('utf-8')+ "[/COLOR]", iconImage=addonArt+icon, thumbnailImage=icon)
     li.setProperty('isplayable', 'true')
     xbmcplugin.addDirectoryItem(handle=addon_handle , url=url, listitem=li, isFolder=True)
 
@@ -61,7 +61,7 @@ def doCategory(category, catalogueId):
     
     #xbmc.log(category["name"].encode('utf-8'))
     url = build_url({'mode': 'category', 'foldername': categoryname, "id":str(catalogueId),"catid":str(category["id"]) })
-    li = xbmcgui.ListItem("[B][COLOR yellow]" + categoryname+ "[/COLOR][/B]", iconImage=addonArt+icon, thumbnailImage=addonArt+icon)
+    li = xbmcgui.ListItem("[B][COLOR yellow]" + categoryname+ "[/COLOR][/B]", iconImage=addonArt+icon, thumbnailImage=icon)
     #xbmc.log("URL: "+str(url))
     xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
     #xbmc.log("END WORK CATEGORY")
